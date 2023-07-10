@@ -1,0 +1,9 @@
+{
+	"name": "Datafactory-for-git",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25289eb7-fbad-4f66-954c-58ed80e6a248",
+		"tenantId": "0c900b9b-4446-4ab3-9574-2da9906292a9"
+	}
+}
